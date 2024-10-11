@@ -1,4 +1,3 @@
-# Diagnosis_Of_Glaucoma_Using_Retinal_Fundus_Images
 # Machine Learning and Deep Learning Approaches for Diagnosis of Glaucoma using Retinal Fundus Images
 
 ## Table of Contents
